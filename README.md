@@ -18,6 +18,4 @@ npm install
 npm run dev
 
 
-heroku server:
-https://app-server-english.herokuapp.com/
-heroku client:
+
