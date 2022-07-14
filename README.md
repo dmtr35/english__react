@@ -15,7 +15,7 @@ cd client:
 
 npm install
 
-npm run start
+npm run dev
 
 
 heroku server:
