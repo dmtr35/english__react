@@ -7,7 +7,7 @@ cd server:
 
 npm install
 
-npm run dev
+npm run start
 
 
 
@@ -16,3 +16,8 @@ cd client:
 npm install
 
 npm run start
+
+
+heroku server:
+https://app-server-english.herokuapp.com/
+heroku client:
